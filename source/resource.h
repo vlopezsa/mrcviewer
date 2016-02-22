@@ -1,0 +1,20 @@
+#ifndef RESOURCEH
+#define RESOURCEH
+
+#define ID_MABRIR		1000
+#define ID_MCERRAR		1001
+
+#define IDC_EDIT_UMBRAL 2000
+#define IDC_BTN_UP		2001
+#define IDC_BTN_FRONT	2002
+#define IDC_BTN_LEFT	2003
+#define IDC_BTN_COLOR	2004
+#define IDC_BTN_DO		2005
+#define IDC_TRACK_UMBRAL 2006
+#define IDC_BTN_GOURAUD 2007
+#define IDC_BTN_PLANO	2008
+#define IDC_BTN_MALLA	2009
+
+#define IDC_MAIN_STATUS 3000
+
+#endif
